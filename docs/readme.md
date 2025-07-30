@@ -1,3 +1,3 @@
 Network topology
-![Preview](assets/preview.png)
+![Preview](preview.png)
 

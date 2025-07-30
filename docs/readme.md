@@ -1,2 +1,2 @@
 Network topology
-![App Preview](docs/preview.png)
+![Preview](docs/preview.png)
